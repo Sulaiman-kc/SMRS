@@ -1,0 +1,16 @@
+body{
+}
+.nav-list{
+    list-style-type: none;
+    
+}
+li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+li a{
+    text-decoration: none;
+
+}

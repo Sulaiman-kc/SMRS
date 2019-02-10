@@ -11,6 +11,16 @@ li{
     padding: 14px 16px;
 }
 li a{
-    text-decoration: none;
+    text-decoration: none!important;
 
+}
+.main{
+    min-height: 500px;
+}
+#searchInput{
+    margin-top:30px;
+
+}
+.colRight{
+    border-left: 1px solid black;
 }
